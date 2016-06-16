@@ -4,7 +4,7 @@
 #
 Name     : xclip
 Version  : 0.12
-Release  : 2
+Release  : 3
 URL      : https://github.com/milki/xclip/archive/0.12.tar.gz
 Source0  : https://github.com/milki/xclip/archive/0.12.tar.gz
 Summary  : No detailed summary available
